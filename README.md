@@ -1,2 +1,2 @@
-# manningco
+# Manningco
 dashboard
